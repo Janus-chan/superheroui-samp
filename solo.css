@@ -1,0 +1,27 @@
+form .but-aut{
+    background-color: rgba(127, 255, 212, 0);
+    border: none;
+    outline: none;
+    color: blue;
+    font-size: 2rem;
+}
+
+
+#search-box{
+    width: 30vw;
+    position: absolute;
+    right: 0%;
+}
+#search-box > div{
+    border: 1px solid rgba(146, 145, 145, 0.836);
+}
+
+#search-box .dats-nam{
+    color: rgb(112, 111, 114);
+}
+
+.lafe{
+    position: relative;
+    z-index: 100;
+    background-color: antiquewhite;
+}
